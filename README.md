@@ -1,28 +1,25 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+Two Input Fields which can subtract numbers. After subtracting the numbers, a result is displayed.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity version 2019.1.14f1, Visual Studio Code 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL (refRes: 1280x720 HD-720p)
 
 ### Visuals: 
 Screenshots (concept and experience), Video
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Unityproject Template: (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
 incl. progress in percent
 
-### Limitations: 
-
 ### Lessons Learned: 
+- create ref resolution in Unity
+- create a GUI with inputfield and buttons
 
-Copyright by you :)
+Copyright by vgoette
