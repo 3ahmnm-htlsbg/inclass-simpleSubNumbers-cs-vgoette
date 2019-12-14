@@ -11,17 +11,19 @@ WebGL (refRes: 1280x720 HD-720p)
 
 ### Visuals: 
 <div>
-    <img src="Screenshots/screenshot.jpg">
+    <img src="Screenshots/screenshot.JPG">
 </div>
 
 ### Third party material: 
 Unityproject Template: (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
-incl. progress in percent
+finished
 
 ### Lessons Learned: 
 - create ref resolution in Unity
 - create a GUI with inputfield and buttons
+- add C# Script
+- edit buttons
 
 Copyright by vgoette
