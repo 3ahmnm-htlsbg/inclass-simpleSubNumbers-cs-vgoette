@@ -12,6 +12,7 @@ WebGL (refRes: 1280x720 HD-720p)
 ### Visuals: 
 <div>
     <img src="Screenshots/screenshot.JPG">
+    <img src="Screenshots/screenshot2.JPG">
 </div>
 
 ### Third party material: 
