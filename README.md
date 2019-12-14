@@ -10,7 +10,9 @@ Windows 10, Unity version 2019.1.14f1, Visual Studio Code 2019
 WebGL (refRes: 1280x720 HD-720p)
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+    <img src="Screenshots/screenshot.jpg">
+</div>
 
 ### Third party material: 
 Unityproject Template: (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
